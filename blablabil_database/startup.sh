@@ -1,10 +1,11 @@
 #!/bin/bash
 
 # Minimal PostgreSQL startup script with full paths
-DB_NAME="myapp"
+DB_NAME="blablabil_database"
 DB_USER="appuser"
 DB_PASSWORD="dbuser123"
 DB_PORT="5000"
+=======
 
 echo "Starting PostgreSQL setup..."
 
